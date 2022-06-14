@@ -8,7 +8,7 @@ Getting started with Git: a comprehensive guide for newbies
 A match made in heaven: Git and IntelliJ IDEA
 Teamwork without confusion: understanding branching strategies in Git
 Thanks for your attention.
-
+Полностью
 Russian
 Проект, который был создан для реализации пошагового руководства в статье Начало работы с Git: подробный гайд для новичков. Здесь отображены все шаги, которые были проделаны в статье.
 
