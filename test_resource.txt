@@ -7,3 +7,5 @@ update text. END.
 hello world!
 
 Show GIT PUSH comand.
+
+Added read me
