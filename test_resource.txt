@@ -3,3 +3,7 @@ header
 hello world!
 
 update text. END.
+
+hello world!
+
+Show GIT PUSH comand.
